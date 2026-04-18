@@ -25,12 +25,10 @@
 - [Architecture](#-architecture)
 - [Dataset](#-dataset)
 - [Technical Implementation](#-technical-implementation)
+- [User Interface Gallery](#-user-interface-gallery)
 - [Results & Evaluation](#-results--evaluation)
 - [Innovation Features](#-innovation-features)
-- [Setup & Installation](#-setup--installation)
-- [Deployment](#-deployment)
 - [Testing](#-testing)
-- [Project Structure](#-project-structure)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -174,6 +172,38 @@ INSTRUCTIONS:
 ANSWER:"""
 ```
 ---
+## 🎨 User Interface Gallery
+
+### Intro / Landing Page
+<p align="center">
+  <img src="images/rag_ui_intro_light.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/rag_ui_intro_dark.png" width="45%" />
+</p>
+<p align="center">
+  <em>Main landing interface</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Welcome screen with examples</em>
+</p>
+
+### Q&A Responses
+<p align="center">
+  <img src="images/rag_ui_light.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/rag_ui_dark.png" width="45%" />
+</p>
+<p align="center">
+  <em>2016 election result</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>2025 budget tax removals</em>
+</p>
+
+### Analytics Dashboard
+<p align="center">
+  <img src="images/rag_ui_analytics1.png" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="images/rag_ui_analytics2.png" width="45%" />
+</p>
+<p align="center">
+  <em>Retrieval performance heatmap</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Source distribution chart</em>
+</p>
+---
 
 ## 📈 Results & Evaluation
 
@@ -199,9 +229,9 @@ ANSWER:"""
 | Citations provided | Yes | No |
 
 ---
-## 💡 Innovation Features (Part G)
+## 💡 Innovation Features 
 
-### 1. Conversation Memory
+### 1. Conversation Memory (Part G)
 
 ```python
 class ConversationMemory:
@@ -216,7 +246,7 @@ class ConversationMemory:
             return f"Previously: {last_exchange}"
         return ""
 ```
-### 2. Feedback Loop
+### 2. Feedback Loop (Part G)
 
 ```python
 class FeedbackLoop:
