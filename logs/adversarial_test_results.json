@@ -1,0 +1,68 @@
+[
+  {
+    "test_id": 1,
+    "query": "What happened in the 2026 Ghana election?",
+    "type": "out_of_domain",
+    "rag_response": "Based on the documents provided, I cannot find that information. The context only mentions elections up to 2008 and the budget for 2025, but it does not provide any information about the 2026 Ghana election.",
+    "pure_llm_response": "I'm not aware of any information about the 2026 Ghana election, as my training data only goes up to 2023.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": true,
+    "rag_appropriate_refusal": true,
+    "timestamp": "2026-04-18T09:47:07.870175"
+  },
+  {
+    "test_id": 2,
+    "query": "Tell me about the education budget for 2030",
+    "type": "out_of_domain",
+    "rag_response": "Based on the documents provided, I cannot find that information. The context only discusses the 2025 budget, with no mention of the 2030 education budget.",
+    "pure_llm_response": "The education budget for 2030 is expected to prioritize investments in digital infrastructure, teacher training, and accessibility initiatives. It may also focus on addressing learning gaps, promoting STEM education, and supporting disadvantaged student groups. However, specific details and allocations may vary by country and region.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": true,
+    "rag_appropriate_refusal": true,
+    "timestamp": "2026-04-18T09:47:17.146856"
+  },
+  {
+    "test_id": 3,
+    "query": "Who will win the next election?",
+    "type": "speculative",
+    "rag_response": "Based on the documents provided, I cannot find that information. The context only provides information about the 2020 Ghana election results for certain regions and the 2025 budget, but it does not contain any data or predictions about the next election.",
+    "pure_llm_response": "I don't have information about future events or specific election outcomes. Elections are unpredictable and depend on various factors, including voter turnout, candidate performance, and current events.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": true,
+    "rag_appropriate_refusal": true,
+    "timestamp": "2026-04-18T09:47:26.614359"
+  },
+  {
+    "test_id": 4,
+    "query": "What is the GDP growth?",
+    "type": "ambiguous",
+    "rag_response": "The GDP growth is mentioned in a few places. According to the context, the real GDP growth was 5.7 percent in 2024. However, it's expected to moderate to 4.0 percent in 2025 and then rebound to around 5.0 percent from 2026 to 2028. The non-oil real GDP growth is projected to be 6.0 percent in 2024, 4.8 percent in 2025, and an average of 4.8 percent from 2026 to 2028.",
+    "pure_llm_response": "GDP growth refers to the percentage change in the gross domestic product of a country over a specific period, typically a year. Average global GDP growth is around 3-4% annually.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": false,
+    "rag_appropriate_refusal": false,
+    "timestamp": "2026-04-18T09:47:35.874446"
+  },
+  {
+    "test_id": 5,
+    "query": "How much money did the government spend?",
+    "type": "vague",
+    "rag_response": "According to the documents, the government's Total Expenditure (Commitment, including discrepancy) for 2024 was GH\u00a2279,241 million, which is 23.7% of GDP. This amount is 27.1% above the budgetary provision of GH\u00a2219,749 million.",
+    "pure_llm_response": "I'm not aware of a specific government or time period, so I don't have enough information to provide an answer.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": false,
+    "rag_appropriate_refusal": false,
+    "timestamp": "2026-04-18T09:47:47.939212"
+  },
+  {
+    "test_id": 6,
+    "query": "Tell me about fake election results from 2030",
+    "type": "hallucination_trap",
+    "rag_response": "Based on the documents provided, I cannot find that information. The context only provides information about the 2000 Ghana election results for different regions and the 2025 budget, but it does not mention anything about the 2030 election results.",
+    "pure_llm_response": "I'm not aware of any information about election results from 2030, as my training data only goes up to 2021.",
+    "rag_hallucinated": false,
+    "pure_llm_hallucinated": true,
+    "rag_appropriate_refusal": true,
+    "timestamp": "2026-04-18T09:47:55.229418"
+  }
+]

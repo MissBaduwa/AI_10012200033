@@ -1,0 +1,153 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-04-18T09:49:33.713785",
+      "question": "budget for 2024",
+      "rating": 1,
+      "adjustment": 0.15,
+      "affected_chunks": [
+        {
+          "chunk_id": "budget_page_4",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_6",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_250",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        }
+      ],
+      "response_preview": "Based on the documents provided, I cannot find that information. The context only mentions the 2025 budget, but not the 2024 budget. It does mention the \"2024 Fiscal Performance\" in section [2] BUDGET"
+    },
+    {
+      "timestamp": "2026-04-18T09:49:46.660625",
+      "question": "budget for 2025",
+      "rating": 1,
+      "adjustment": 0.15,
+      "affected_chunks": [
+        {
+          "chunk_id": "budget_page_5",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_4",
+          "old_weight": 1.15,
+          "new_weight": 1.3,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_250",
+          "old_weight": 1.15,
+          "new_weight": 1.3,
+          "source": "budget"
+        }
+      ],
+      "response_preview": "The 2025 Budget Statement and Economic Policy of the Government of Ghana is available for public access. It was presented to Parliament by Dr. Cassiel Ato Forson (MP), Minister for Finance, on Tuesday"
+    },
+    {
+      "timestamp": "2026-04-18T09:49:57.664472",
+      "question": "who won in 2012",
+      "rating": 1,
+      "adjustment": 0.15,
+      "affected_chunks": [
+        {
+          "chunk_id": "election_regional_2012_Upper_East\u00a0Region",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "election"
+        },
+        {
+          "chunk_id": "budget_page_247",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "election_regional_2012_Upper_West\u00a0Region",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "election"
+        }
+      ],
+      "response_preview": "In 2012, **John Dramani Mahama** of the **NDC** won the presidential election with **5,574,761** votes (50.7% of total valid votes)."
+    },
+    {
+      "timestamp": "2026-04-18T09:50:08.907419",
+      "question": "who won in 2000",
+      "rating": 1,
+      "adjustment": 0.15,
+      "affected_chunks": [
+        {
+          "chunk_id": "election_regional_2000_Upper_East\u00a0Region",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "election"
+        },
+        {
+          "chunk_id": "budget_page_247",
+          "old_weight": 1.15,
+          "new_weight": 1.3,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "election_regional_2000_Eastern\u00a0Region",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "election"
+        }
+      ],
+      "response_preview": "In 2000, **J. A. Kuffour** of the **NPP** won the presidential election with **6,765,921** votes (53.3% of total valid votes)."
+    },
+    {
+      "timestamp": "2026-04-18T09:50:26.979546",
+      "question": "crude oil in 2024",
+      "rating": 1,
+      "adjustment": 0.15,
+      "affected_chunks": [
+        {
+          "chunk_id": "budget_page_73",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_52",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        },
+        {
+          "chunk_id": "budget_page_20",
+          "old_weight": 1.0,
+          "new_weight": 1.15,
+          "source": "budget"
+        }
+      ],
+      "response_preview": "In 2024, the total crude oil production for Ghana and its partners was 48.24 million barrels. The production came from three main fields: Greater Jubilee (31.85 million barrels), Tweneboa Enyenra-Ntom"
+    }
+  ],
+  "weights": {
+    "budget_page_4": 1.2999999999999998,
+    "budget_page_6": 1.15,
+    "budget_page_250": 1.2999999999999998,
+    "budget_page_5": 1.15,
+    "election_regional_2012_Upper_East\u00a0Region": 1.15,
+    "budget_page_247": 1.2999999999999998,
+    "election_regional_2012_Upper_West\u00a0Region": 1.15,
+    "election_regional_2000_Upper_East\u00a0Region": 1.15,
+    "election_regional_2000_Eastern\u00a0Region": 1.15,
+    "budget_page_73": 1.15,
+    "budget_page_52": 1.15,
+    "budget_page_20": 1.15
+  }
+}

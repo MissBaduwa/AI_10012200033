@@ -1,0 +1,642 @@
+[
+  {
+    "timestamp": "2026-04-18T09:47:02.740412",
+    "query": "What happened in the 2026 Ghana election?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2000_Ashanti\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.6549724340438843,
+        "bm25_score": 0,
+        "final_score": 0.01639344262295082,
+        "text_preview": "\n    GHANA ELECTION 2000 - Ashanti\u00a0Region REGION\n    WINNER: J. A. Kuffour (NPP)\n    VOTES: 1,997,256\n    \nJ. A. Kuffour (NPP): 1,997,256 votes\nJ. A. Mills (NDC): 537,190 votes\nGeorge Hagan (CPP): 5,911 votes\nEdward Mahama (PNC): 16,863 votes\nDan Lartey (GCPP): 6,722 votes"
+      },
+      {
+        "chunk_id": "budget_page_86",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 15.997546740539518,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n73 \n \nthe District Assemblies to spur economic growth at the district level and deepen \ndecentralization. \n389. Mr. Speaker, it is worth noting that this is in stark contrast to what has happened to \nthe District Assembly Common Fund (DACF)"
+      },
+      {
+        "chunk_id": "election_regional_2008_Ashanti\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.654666543006897,
+        "bm25_score": 0,
+        "final_score": 0.016129032258064516,
+        "text_preview": "\n    GHANA ELECTION 2008 - Ashanti\u00a0Region REGION\n    WINNER: Nana Addo (NPP)\n    VOTES: 1,214,350\n    \nNana Addo (NPP): 1,214,350 votes\nJ. A Mills (NDC): 438,234 votes\nPapa K. Nduom (CPP): 11,937 votes\nEdward Mahama (PNC): 5,464 votes\nKwesi Amoafo-Yeboah (IND): 2,517 votes"
+      },
+      {
+        "chunk_id": "budget_page_61",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 8.081715795096406,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n48 \n \nSECTION 4: 2025 AND MEDIUM-TERM POLICY \nOBJECTIVES AND TARGETS  \nIntroduction \n227. Mr. Speaker, it is what it is. The state of our economy is troubling, but we will fix it! It \nwill require some sacrifices, truthfulness, transparency"
+      },
+      {
+        "chunk_id": "election_regional_2008_Brong_Ahafo_Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.6473298072814941,
+        "bm25_score": 0,
+        "final_score": 0.015873015873015872,
+        "text_preview": "\n    GHANA ELECTION 2008 - Brong Ahafo Region REGION\n    WINNER: Nana Addo (NPP)\n    VOTES: 392,588\n    \nNana Addo (NPP): 392,588 votes\nJ. A Mills (NDC): 370,404 votes\nPapa K. Nduom (CPP): 3,988 votes\nEdward Mahama (PNC): 4,038 votes\nKwesi Amoafo-Yeboah (IND): 1,696 votes"
+      }
+    ],
+    "response": "Based on the documents provided, I cannot find that information. The context only mentions elections up to 2008 and the budget for 2025, but it does not provide any information about the 2026 Ghana election.",
+    "sources_used": [
+      {
+        "source": "election",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "election",
+        "relevance_score": 0.016129032258064516
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:47:07.870332",
+    "query": "Tell me about the education budget for 2030",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_85",
+        "source": "budget",
+        "category": "Education",
+        "dense_score": 0.5464228391647339,
+        "bm25_score": 0,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n72 \n \n380. Mr. Speaker, we have also allocated an amount of GH\u00a2564.6 million for comprehensive \nprovision of curricula-based textbooks covering the following: \ni. \nfour (4) sets of KG books and workbooks for about 2.8 million learners; \nii."
+      },
+      {
+        "chunk_id": "budget_page_84",
+        "source": "budget",
+        "category": "Education",
+        "dense_score": 0,
+        "bm25_score": 10.681666728884416,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n71 \n \nxiv. \nNo-Academic-Fee policy for all first-year students in public tertiary \ninstitutions (No-Fee-Stress Initiative); \nxv. \nFree Tertiary Education for Persons with Disability (PWDs) \n \nGhana Labour Export Programme \n370. Mr. Speaker,"
+      },
+      {
+        "chunk_id": "budget_page_250",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.47981441020965576,
+        "bm25_score": 0,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n237 \n \nAppendix 10C: List of Projects to be Funded from Non-Concessional Sources \n \n \n \n \n \n \n \nNo new non-concessional borrowing will be contracted or guaranteed in 2025"
+      },
+      {
+        "chunk_id": "budget_page_136",
+        "source": "budget",
+        "category": "Education",
+        "dense_score": 0,
+        "bm25_score": 10.09137223897863,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n123 \n \nSECTION 7: CONCLUSION \n \n757. Mr. Speaker, the state of the economy as I have just presented, does not reflect an \neconomy that has turned the corner; it reflects an economy in severe distress, \nburdened by debt repayment humps, mism"
+      },
+      {
+        "chunk_id": "budget_page_251",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.46454089879989624,
+        "bm25_score": 0,
+        "final_score": 0.015873015873015872,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n238 \n \nAppendix 10D: List of Projects to be Funded from Concessional Borrowing Sources \n \n \n \n \n \nProject Title\nSector\nWest African Power Pool Programme: Ghana Cote d'Ivoire \nInterconnection Re-enforcement Project\nMinistry of Energy and Gre"
+      }
+    ],
+    "response": "Based on the documents provided, I cannot find that information. The context only discusses the 2025 budget, with no mention of the 2030 education budget.",
+    "sources_used": [
+      {
+        "source": "budget (Education)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Education)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.016129032258064516
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:47:17.147101",
+    "query": "Who will win the next election?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2020_Greater_Accra\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.39359837770462036,
+        "bm25_score": 0,
+        "final_score": 0.01639344262295082,
+        "text_preview": "\n    GHANA ELECTION 2020 - Greater Accra\u00a0Region REGION\n    WINNER: John Dramani Mahama (NDC)\n    VOTES: 1,326,489\n    \nNana Akufo Addo (NPP): 1,253,179 votes\nJohn Dramani Mahama (NDC): 1,326,489 votes\nIvor Kobina Greenstreet (CPP): 1,763 votes\nDavid Asibi Ayindenaba Apasera (PNC): 401 votes\nAlfred K"
+      },
+      {
+        "chunk_id": "budget_page_247",
+        "source": "budget",
+        "category": "Health",
+        "dense_score": 0,
+        "bm25_score": 10.968104315878579,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n234 \n \nPARLIAMENT\u2019S \nRECOMMENDATION \nMEASURES TO IMPLEMENT THE RECOMMENDATION \n\u2022 \nThe Attorney General shall continue to prosecute public \nofficers whose action or inaction results in Judgement \ndebt against the government of Ghana. \nRecomm"
+      },
+      {
+        "chunk_id": "election_regional_2020_Upper_East\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.3841283917427063,
+        "bm25_score": 0,
+        "final_score": 0.016129032258064516,
+        "text_preview": "\n    GHANA ELECTION 2020 - Upper East\u00a0Region REGION\n    WINNER: John Dramani Mahama (NDC)\n    VOTES: 335,502\n    \nNana Akufo Addo (NPP): 170,340 votes\nJohn Dramani Mahama (NDC): 335,502 votes\nIvor Kobina Greenstreet (CPP): 879 votes\nDavid Asibi Ayindenaba Apasera (PNC): 2,890 votes\nAlfred Kwame Asie"
+      },
+      {
+        "chunk_id": "budget_page_121",
+        "source": "budget",
+        "category": "Education",
+        "dense_score": 0,
+        "bm25_score": 10.76935882338992,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n108 \n \n654. Mr. Speaker, the Department of Factories Inspectorate (DFI) undertook 3,610 safety \ninspections of shops, offices and workplaces, and registered 594 new workplaces in \nensuring safety and health standards at the workplace. The D"
+      },
+      {
+        "chunk_id": "election_regional_2020_Volta\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.37549304962158203,
+        "bm25_score": 0,
+        "final_score": 0.015873015873015872,
+        "text_preview": "\n    GHANA ELECTION 2020 - Volta\u00a0Region REGION\n    WINNER: John Dramani Mahama (NDC)\n    VOTES: 606,508\n    \nNana Akufo Addo (NPP): 103,865 votes\nJohn Dramani Mahama (NDC): 181,021 votes\nIvor Kobina Greenstreet (CPP): 265 votes\nDavid Asibi Ayindenaba Apasera (PNC): 371 votes\nAlfred Kwame Asiedu Walk"
+      }
+    ],
+    "response": "Based on the documents provided, I cannot find that information. The context only provides information about the 2020 Ghana election results for certain regions and the 2025 budget, but it does not contain any data or predictions about the next election.",
+    "sources_used": [
+      {
+        "source": "election",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Health)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "election",
+        "relevance_score": 0.016129032258064516
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:47:26.614529",
+    "query": "What is the GDP growth?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_57",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.5450609922409058,
+        "bm25_score": 10.179796263809228,
+        "final_score": 0.03252247488101534,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n44 \n \nFigure 10: Real GDP Growth (percent), 2016-2024 \nSource: MoF/GSS \n \nSector Developments \n210. The Industry Sector registered the highest growth profile with a growth rate of 7.1 \npercent, followed by the Services Sector at 5.9 percent"
+      },
+      {
+        "chunk_id": "budget_page_80",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.6754986047744751,
+        "bm25_score": 9.81011901648855,
+        "final_score": 0.032266458495966696,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n67 \n \n354. Mr. Speaker, in spite of the front-loaded fiscal consolidation programme, the economy \nis expected to expand over the medium-term with real GDP growing at an average of \n4.8 percent over the period (2025-2028).  \n355. Real GDP gr"
+      },
+      {
+        "chunk_id": "budget_page_79",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.48980167508125305,
+        "bm25_score": 8.641631010530864,
+        "final_score": 0.030776515151515152,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n66 \n \n349. Mr. Speaker, the primary expenditure is projected to rise modestly to 15.4 percent of \nGDP by 2028, ensuring adequate resources for priority investments, including the Big \nPush initiative, while maintaining fiscal discipline as "
+      },
+      {
+        "chunk_id": "budget_page_38",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.48916447162628174,
+        "bm25_score": 7.985549732889995,
+        "final_score": 0.02967032967032967,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n25 \n \n2024 Revenue Performance \n122. Mr. Speaker, Total Revenue and Grants was GH\u00a2186,593 million (15.9% of GDP), 5.3 \npercent above the revised target of GH\u00a2177,220 million (17.4% of GDP) as shown in \nTable 20. The performance was driven p"
+      },
+      {
+        "chunk_id": "budget_page_86",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 10.129469142797399,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n73 \n \nthe District Assemblies to spur economic growth at the district level and deepen \ndecentralization. \n389. Mr. Speaker, it is worth noting that this is in stark contrast to what has happened to \nthe District Assembly Common Fund (DACF)"
+      }
+    ],
+    "response": "The GDP growth is mentioned in a few places. According to the context, the real GDP growth was 5.7 percent in 2024. However, it's expected to moderate to 4.0 percent in 2025 and then rebound to around 5.0 percent from 2026 to 2028. The non-oil real GDP growth is projected to be 6.0 percent in 2024, 4.8 percent in 2025, and an average of 4.8 percent from 2026 to 2028.",
+    "sources_used": [
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.03252247488101534
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.032266458495966696
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.030776515151515152
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:47:35.874598",
+    "query": "How much money did the government spend?",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_55",
+        "source": "budget",
+        "category": "Infrastructure",
+        "dense_score": 0.4417906403541565,
+        "bm25_score": 0,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n42 \n \n200. Mr. Speaker, the total petroleum receipts distributed was US$1.4 billion from the 2024 \ntotal receipts of US$1.4 billion and US$0.29 million from undistributed petroleum \nreceipts from 2023.  \n201. Of the amount of US$1.4 billion"
+      },
+      {
+        "chunk_id": "budget_page_81",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 9.460919374925277,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n68 \n \ndisbursement ceilings of US$300 million on multilateral project loans and US$250 \nmillion on bilateral project loans.  \n363. Mr. Speaker, to promote primary and secondary market activities, the government will \nimplement liability man"
+      },
+      {
+        "chunk_id": "budget_page_37",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.4291969835758209,
+        "bm25_score": 0,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n24 \n \n117. Mr. Speaker, the fiscal performance for 2024 shows a reversal of the effort made in \n2023 as primary balance on commitment basis worsened from a deficit of 0.2% in \n2023 to a deficit of 3.9% of GDP in 2024. The same trend was obs"
+      },
+      {
+        "chunk_id": "budget_page_64",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 7.917163522008051,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n51 \n \n2025 Macroeconomic Targets  \n250. Mr. Speaker, in pursuit of the overarching macroeconomic objectives, the following \nmacroeconomic targets are set for the 2025 fiscal year:  \ni. \nOverall Real GDP growth of at least 4.0 percent; \nii. "
+      },
+      {
+        "chunk_id": "budget_page_40",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0.4168907701969147,
+        "bm25_score": 0,
+        "final_score": 0.015873015873015872,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n27 \n \n2024 Expenditure Performance (Commitment basis) \n128. Mr. Speaker, Total Expenditure (Commitment, including discrepancy) amounted to \nGH\u00a2279,241 million (23.7% of GDP), 27.1 percent above the budgetary provision of \nGH\u00a2219,749 million"
+      }
+    ],
+    "response": "According to the documents, the government's Total Expenditure (Commitment, including discrepancy) for 2024 was GH\u00a2279,241 million, which is 23.7% of GDP. This amount is 27.1% above the budgetary provision of GH\u00a2219,749 million.",
+    "sources_used": [
+      {
+        "source": "budget (Infrastructure)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Economy)",
+        "relevance_score": 0.016129032258064516
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:47:47.939364",
+    "query": "Tell me about fake election results from 2030",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2000_Central\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.3991098999977112,
+        "bm25_score": 0,
+        "final_score": 0.01639344262295082,
+        "text_preview": "\n    GHANA ELECTION 2000 - Central\u00a0Region REGION\n    WINNER: J. A. Kuffour (NPP)\n    VOTES: 559,844\n    \nJ. A. Kuffour (NPP): 559,844 votes\nJ. A. Mills (NDC): 417,790 votes\nGeorge Hagan (CPP): 13,116 votes\nEdward Mahama (PNC): 2,648 votes\nDan Lartey (GCPP): 6,398 votes"
+      },
+      {
+        "chunk_id": "budget_page_29",
+        "source": "budget",
+        "category": "Health",
+        "dense_score": 0,
+        "bm25_score": 5.407538582868841,
+        "final_score": 0.01639344262295082,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n16 \n \n83. \nMr. Speaker, it seems the debt restructuring undertaken by the previous administration \nwas designed to be 2027/2028-heavy. \n84. \nMr. Speaker, in spite of all these upcoming domestic and external debt service \nobligations, no buf"
+      },
+      {
+        "chunk_id": "election_regional_2000_Western\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.39637064933776855,
+        "bm25_score": 0,
+        "final_score": 0.016129032258064516,
+        "text_preview": "\n    GHANA ELECTION 2000 - Western\u00a0Region REGION\n    WINNER: J. A. Kuffour (NPP)\n    VOTES: 604,107\n    \nJ. A. Kuffour (NPP): 604,107 votes\nJ. A. Mills (NDC): 466,478 votes\nGeorge Hagan (CPP): 16,039 votes\nEdward Mahama (PNC): 3,403 votes\nDan Lartey (GCPP): 4,666 votes"
+      },
+      {
+        "chunk_id": "budget_page_246",
+        "source": "budget",
+        "category": "Economy",
+        "dense_score": 0,
+        "bm25_score": 4.922007172661214,
+        "final_score": 0.016129032258064516,
+        "text_preview": "Resetting the Economy for the Ghana We Want \n \n2025 Budget \n233 \n \nAppendix 9: Government\u2019s measures to implement the recommendations of \nParliament in respect of the Auditor-General\u2019s report \nPARLIAMENT\u2019S \nRECOMMENDATION \nMEASURES TO IMPLEMENT THE RECOMMENDATION \nRecommendation to \nenhance the reco"
+      },
+      {
+        "chunk_id": "election_regional_2000_Eastern\u00a0Region",
+        "source": "election",
+        "category": "N/A",
+        "dense_score": 0.3962707221508026,
+        "bm25_score": 0,
+        "final_score": 0.015873015873015872,
+        "text_preview": "\n    GHANA ELECTION 2000 - Eastern\u00a0Region REGION\n    WINNER: J. A. Kuffour (NPP)\n    VOTES: 856,789\n    \nJ. A. Kuffour (NPP): 856,789 votes\nJ. A. Mills (NDC): 577,317 votes\nGeorge Hagan (CPP): 6,799 votes\nEdward Mahama (PNC): 4,525 votes\nDan Lartey (GCPP): 6,841 votes"
+      }
+    ],
+    "response": "Based on the documents provided, I cannot find that information. The context only provides information about the 2000 Ghana election results for different regions and the 2025 budget, but it does not mention anything about the 2030 election results.",
+    "sources_used": [
+      {
+        "source": "election",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "budget (Health)",
+        "relevance_score": 0.01639344262295082
+      },
+      {
+        "source": "election",
+        "relevance_score": 0.016129032258064516
+      }
+    ],
+    "fast_path_used": false
+  },
+  {
+    "timestamp": "2026-04-18T09:49:00.224416",
+    "query": "Who won the 2016 election?",
+    "enhanced_query": "Who won the 2016 election?",
+    "memory_used": true,
+    "response": "In 2016, **Nana Akufo Addo** of the **NPP** won the presidential election with **5,767,076** votes (53.6% of total valid votes).",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2016_Eastern\u00a0Region",
+        "source": "election",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_247",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "election_regional_2016_Central\u00a0Region",
+        "source": "election",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "budget_page_121",
+        "source": "budget",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "election_regional_2016_Upper_East\u00a0Region",
+        "source": "election",
+        "score": 0.015873015873015872
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:49:01.315649",
+    "query": "How many votes did they get?",
+    "enhanced_query": "Previously you asked: 'Who won the 2016 election?'\nI answered: 'In 2016, **Nana Akufo Addo** of the **NPP** won the presidential election with **5,767,076** votes (53.6% of total valid votes).'\n\nCurrent question: How many votes did they get?",
+    "memory_used": true,
+    "response": "In 2016, **Nana Akufo Addo** of the **NPP** won the presidential election with **5,767,076** votes (53.6% of total valid votes).",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_national_1996",
+        "source": "election",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_62",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "election_regional_1996_Greater_Accra\u00a0Region",
+        "source": "election",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "budget_page_128",
+        "source": "budget",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "election_regional_1996_Central\u00a0Region",
+        "source": "election",
+        "score": 0.015873015873015872
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:49:25.060499",
+    "query": "budget for 2024",
+    "enhanced_query": "budget for 2024",
+    "memory_used": true,
+    "response": "Based on the documents provided, I cannot find that information. The context only mentions the 2025 budget, but not the 2024 budget. It does mention the \"2024 Fiscal Performance\" in section [2] BUDGET (Infrastructure), but it does not provide the actual budget for 2024.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_4",
+        "source": "budget",
+        "score": 0.03125763125763126
+      },
+      {
+        "chunk_id": "budget_page_6",
+        "source": "budget",
+        "score": 0.02919863597612958
+      },
+      {
+        "chunk_id": "budget_page_250",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_15",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_251",
+        "source": "budget",
+        "score": 0.016129032258064516
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:49:42.804575",
+    "query": "budget for 2025",
+    "enhanced_query": "budget for 2025",
+    "memory_used": true,
+    "response": "The 2025 Budget Statement and Economic Policy of the Government of Ghana is available for public access. It was presented to Parliament by Dr. Cassiel Ato Forson (MP), Minister for Finance, on Tuesday, March 11, 2025. The budget aims to reset the economy for a Ghana that is increasingly export-driven and industrial. However, specific details about the budget allocation are not provided in the context, except that no new non-concessional borrowing will be contracted or guaranteed in 2025. If you're looking for more information, you can contact the Ministry of Finance's Public Relations Office or download an electronic copy from their website (www.mofep.gov.gh).",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_5",
+        "source": "budget",
+        "score": 0.03225806451612903
+      },
+      {
+        "chunk_id": "budget_page_4",
+        "source": "budget",
+        "score": 0.03125763125763126
+      },
+      {
+        "chunk_id": "budget_page_250",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_15",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_56",
+        "source": "budget",
+        "score": 0.015873015873015872
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:49:53.201801",
+    "query": "who won in 2012",
+    "enhanced_query": "who won in 2012",
+    "memory_used": true,
+    "response": "In 2012, **John Dramani Mahama** of the **NDC** won the presidential election with **5,574,761** votes (50.7% of total valid votes).",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2012_Upper_East\u00a0Region",
+        "source": "election",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_247",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "election_regional_2012_Upper_West\u00a0Region",
+        "source": "election",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "budget_page_121",
+        "source": "budget",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "election_regional_2012_Eastern\u00a0Region",
+        "source": "election",
+        "score": 0.015873015873015872
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:50:05.089295",
+    "query": "who won in 2000",
+    "enhanced_query": "who won in 2000",
+    "memory_used": true,
+    "response": "In 2000, **J. A. Kuffour** of the **NPP** won the presidential election with **6,765,921** votes (53.3% of total valid votes).",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "election_regional_2000_Upper_East\u00a0Region",
+        "source": "election",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "budget_page_247",
+        "source": "budget",
+        "score": 0.01639344262295082
+      },
+      {
+        "chunk_id": "election_regional_2000_Eastern\u00a0Region",
+        "source": "election",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "budget_page_121",
+        "source": "budget",
+        "score": 0.016129032258064516
+      },
+      {
+        "chunk_id": "election_regional_2000_Upper_West\u00a0Region",
+        "source": "election",
+        "score": 0.015873015873015872
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-18T09:50:20.514662",
+    "query": "crude oil in 2024",
+    "enhanced_query": "crude oil in 2024",
+    "memory_used": true,
+    "response": "In 2024, the total crude oil production for Ghana and its partners was 48.24 million barrels. The production came from three main fields: Greater Jubilee (31.85 million barrels), Tweneboa Enyenra-Ntomme (TEN) (6.78 million barrels), and Sankofa-Gye Nyame (SGN) (9.61 million barrels). The average selling price of crude oil in 2024 was around $80.05 per barrel, with receipts from crude oil liftings amounting to $843.52 million (GH\u00a212.4 billion) for the period January to December 2024.",
+    "retrieved_chunks": [
+      {
+        "chunk_id": "budget_page_73",
+        "source": "budget",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "budget_page_52",
+        "source": "budget",
+        "score": 0.03252247488101534
+      },
+      {
+        "chunk_id": "budget_page_20",
+        "source": "budget",
+        "score": 0.03125763125763126
+      },
+      {
+        "chunk_id": "budget_page_53",
+        "source": "budget",
+        "score": 0.030798389007344232
+      },
+      {
+        "chunk_id": "budget_page_144",
+        "source": "budget",
+        "score": 0.02857142857142857
+      }
+    ]
+  }
+]
