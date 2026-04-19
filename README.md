@@ -13,7 +13,7 @@
 
 **A complete Retrieval-Augmented Generation system built from scratch without LangChain or LlamaIndex**
 
-[Live Demo](https://ghana-insight-ai.lovable.app/) | [API Docs](https://miss-baduwa-rag-ghana-election-with-budget.hf.space/docs) | [Video Walkthrough](videos/walkthrough.mp4)
+[Live Demo](https://ghana-insight-ai.lovable.app/) | [API Docs](https://miss-baduwa-rag-ghana-election-with-budget.hf.space/docs) | [Video Walkthrough](video_walkthrough.mp4)
 
 </div>
 
